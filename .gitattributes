@@ -1,0 +1,15 @@
+# Generated on 2026-11-06
+
+# Normalize line endings
+*.min.js linguist-generated
+
+*.tsx linguist-detectable
+
+public/**/*.html linguist-vendored
+*.md linguist-documentation
+dist/* linguist-vendored
+*.woff2 binary
+public/** linguist-vendored
+*.jpeg binary
+*.svg text
+*.png binary
