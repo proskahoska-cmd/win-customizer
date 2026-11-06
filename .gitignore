@@ -1,0 +1,5 @@
+.env
+yarn-error.log*
+.next/
+npm-debug.log*
+dist/
